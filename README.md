@@ -7,4 +7,4 @@
 6. thread = numcpu
 7. rps = request per second
 8. proxy = proxy file 
-9. use ssl.txt for proxyfile
+9. use proxy.txt for proxyfile
